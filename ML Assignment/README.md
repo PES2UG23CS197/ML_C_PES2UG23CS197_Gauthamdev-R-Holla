@@ -9,7 +9,8 @@ This will open a new tab with the Working Model along with UI.
 You will have to enter the inputs, choose a model, and click submit to get the result.
 
 ## Team Members
-Charan K - PES2UG23CS145
+Charan K - PES2UG23CS145 <br>
 Gauthamdev R Holla - PES2UG23CS197
+
 
 
